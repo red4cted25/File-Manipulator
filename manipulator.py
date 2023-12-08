@@ -47,7 +47,7 @@ def find_files_and_folders(path):
         print("--------------------------------------")
 
 # FILE OPERATIONS:
-write_file("C:/Users/ndiaz413/Desktop/Yr. 1 VS Code\Python\File Manipulation\Assignment\sample.txt")
+write_file("C:/Users/ndiaz413/Desktop/Yr. 1 VS Code\Python\File Manipulation\Assignment\sample.txt", "This is a sample text file for file operations.")
 read_file("C:/Users/ndiaz413/Desktop/Yr. 1 VS Code\Python\File Manipulation\Assignment\sample.txt")
 append_file("C:/Users/ndiaz413/Desktop/Yr. 1 VS Code\Python\File Manipulation\Assignment\sample.txt", "\nAdditional line added for file operations.")
 
